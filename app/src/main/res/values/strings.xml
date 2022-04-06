@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlipkartUI</string>
+
+    <style name="CustomTextAppearanceTab" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">10dp</item>
+    </style>
+</resources>
